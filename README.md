@@ -32,9 +32,3 @@ By combining organization tools with motivational design, Munjez supports childr
 ## 📸 Preview  
 
 ![image 1](https://github.com/user-attachments/assets/d0b23514-9179-4eff-860b-3d13e18d1851)
-
-
----
-
-## 📩 Contact  
-If you’d like to know more about the app or the development process, feel free to reach out.  
