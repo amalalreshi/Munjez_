@@ -23,15 +23,16 @@ By combining organization tools with motivational design, Munjez supports childr
 ---
 
 ## 👩‍💻 My Role in the Project  
+- Front-End Developer.
 - Led **research and information gathering** in close collaboration with *جمعية إشراق* (Eshraq Association for ADHD Awareness).  
 - Coordinated directly with the association to ensure the app design aligns with colors and visuals suitable for children with ADHD.  
 - Participated in awareness initiatives about ADHD in the Apple Developer Academy in cooperation with the association.  
-- Worked step-by-step with Eshraq Association to align features and UI/UX with ADHD-friendly principles.  
-
 ---
 
 ## 📸 Preview  
-> *(Add screenshots, UI mockups, or concept images here)*  
+
+![image 1](https://github.com/user-attachments/assets/d0b23514-9179-4eff-860b-3d13e18d1851)
+
 
 ---
 
